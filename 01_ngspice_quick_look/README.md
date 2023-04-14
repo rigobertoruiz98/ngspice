@@ -13,3 +13,5 @@ The open source Spice circuit simulator.
 [Ngspice web page](https://ngspice.sourceforge.io/)
 
 [Ngspice user's manual](https://ngspice.sourceforge.io/docs/ngspice-manual.pdf)
+
+[Ngspice tutorial's page](https://ngspice.sourceforge.io/tutorials.html)
