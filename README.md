@@ -1,2 +1,2 @@
 # ngspice
-NGspice Tutorial
+Ngspice Tutorial
